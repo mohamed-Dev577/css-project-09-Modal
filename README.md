@@ -56,6 +56,14 @@
 
 ---
 
+
+## 📷 صورة من المشروع
+
+![Project Screenshot](screenshot.png)
+
+---
+
+
 ## 🧠 ماذا تعلمت من المشروع؟
 
 - الفرق بين relative و absolute و fixed
